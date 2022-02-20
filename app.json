@@ -15,7 +15,7 @@
     "stack": "container",
     "env":{
         "DIWAN_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from h",
+            "description": "Paste the session code you received after scanning the QR from https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@testGoogleall/NEW-QR-CODE-KENTON-NEW-V2-1?v=1",
             "required": true
         },
         "ADD_MESSAGE": {
@@ -31,14 +31,14 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://www.linkpicture.com/q/IMG-20220213-WA0122.jpg"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
             "required": true,
             "value": "default"
         },
-        "AMDI_CHAT": {
+        "KENTON_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
             "value": "false"
@@ -142,7 +142,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "😜/😉"
         },
         "PROMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.promote' command. If you do not want to change it, keep 'default'.",
