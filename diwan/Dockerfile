@@ -1,6 +1,6 @@
-FROM blackamda/queenamdi:public
+FROM blacktiger/kentonbot:public
 
-RUN git clone https://github.com/DIWANKAWISHKAA/KENTONBOT /root/KentonBot
+RUN git clone https://github.com/DIWANKAWISHKAA/KENTONBOT /root/Kentonbot
 WORKDIR /root/KentonBot/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
