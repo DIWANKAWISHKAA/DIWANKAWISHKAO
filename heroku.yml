@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /diwanbase/Dockerfile
+run:
+   worker: npm start
