@@ -1,0 +1,9 @@
+FROM KENTON_BOT_TEAM/kentonbot:latest
+
+RUN git clone https://github.com/DIWANKAWISHKAA/KENTONBOT /root/kentonbot
+WORKDIR /root/kentonbot/
+ENV TZ=Europe/Istanbul
+RUN npm install supervisor -g
+RUN yarn install --no-audit
+
+CMD ["node", "bot.js"]
