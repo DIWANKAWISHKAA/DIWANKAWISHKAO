@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/cyberchekuthan">dIWAN BOT</a> to 
 
  <h1 align="center"><b> පලමුව මෙය ඔබා QR කේතය Scan කර ගන්න  👇 </b></h1> 
 
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DiwanKawishka/KENTON-BOT-QR-CODE#index.js)
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DiwanKawishka/whatsasena?v=1)
     
   <h1 align="center"><b> දෙවනුව මෙම දම්පාට කොටුව ඔබන්න Dpeloy කිරීමට  👇 </b></h1>  
  
